@@ -1,4 +1,4 @@
-# Ejercicios-resueltos-HackerRank
+# Ejercicios Resueltos de HackerRank
 
 Repositorio con los ejercicios resueltos planteados en la plataforma [HackerRank](https://www.hackerrank.com/).
 
